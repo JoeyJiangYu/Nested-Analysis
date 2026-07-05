@@ -1,4 +1,4 @@
-# Nested-Analysis
+# Nested-Analysis Simulation
 This repository contains the R script used for the Nested Analysis simulation presented in the seminar:
 
 Forschungspraxis III – Mixed Methods
